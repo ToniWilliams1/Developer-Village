@@ -1,6 +1,7 @@
 # Developer Village
 
-## Preview:
+## Preview
+![dev village](https://user-images.githubusercontent.com/100317017/180869540-21690d42-e3ee-4b61-acbb-32ae53c26aa8.jpg)
 
 ## About:
 
