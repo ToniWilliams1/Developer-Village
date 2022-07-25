@@ -1,14 +1,14 @@
-# Dev-Village
+# Developer Village
 
 ## Preview:
 
 ## About:
 
-Dev-Village is a chat application that allows users to create an account, login and start chatting. Users are able to see other users who are online, receive read receipts, and send files.
+Developer Village is a chat application that allows users to create an account, login and start chatting. Users are able to see other users who are online, receive read receipts, and send files.
 
 ## View The Live Site Here:
 
-
+https://developervillage.netlify.app/
 
 ## Tech Used
 
