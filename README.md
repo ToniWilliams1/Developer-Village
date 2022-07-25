@@ -8,7 +8,7 @@ Developer Village is a chat application that allows users to create an account, 
 
 ## View The Live Site Here:
 
-https://developervillage.netlify.app/
+https://developer-village.netlify.app/
 
 ## Tech Used
 
