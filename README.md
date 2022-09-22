@@ -14,7 +14,7 @@ https://developer-village.netlify.app/
 
 ## Tech Used
 
-HTML, CSS, JavaScript, React
+HTML, CSS, JavaScript, React, ChatEngine.io
 
 ## Lessons Learned:
 
