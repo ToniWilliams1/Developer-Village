@@ -2,10 +2,6 @@
 
 The ultimate dev group chat.
 
-## View The Live Site Here:
-
-https://developer-village.netlify.app/
-
 ## Key Technologies, Packages, and Gems
 
 - Front end
