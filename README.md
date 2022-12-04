@@ -16,9 +16,7 @@ Users can create an account, login and start chatting. <br>
 Users can receive read receipts, and send files. <br>
 Users can create chat rooms.
 
-## Lessons Learned:
 
-This lesson taught me how to build a chat application on the frontend using React. I've made chat applications on the backend using CRUD methodology and a MongoDB database, so this was a different approach because this app was built on the frontend.
 
 ## [Demo](https://developer-village.netlify.app/)
 
