@@ -2,13 +2,15 @@
 
 The ultimate dev group chat.
 
-## Key Technologies, Packages, and Gems
+# Key Technologies, Packages, and Gems
 
-- Front end
-HTML <br>
+## Front end <br>
 CSS <br>
+HTML <br>
 JavaScript <br> 
 React <br>
+
+## Back end <br>
 ChatEngine.io
 
 ## Core Features
